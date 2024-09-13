@@ -5,6 +5,10 @@ repo: greatik-uptime # The name of this repository
 sites:
   - name: Greatik
     url: https://www.greatik.de
+  - name: Ekato GmbH
+    url: https://www.ekato.com
+  - name: Mixing Ekato GmbH
+    url: https://mixing.ekato.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
