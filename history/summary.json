@@ -4,9 +4,9 @@
     "url": "https://www.greatik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.greatik.de.ico",
     "slug": "greatik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 3035,
     "timeYear": 3035,
     "dailyMinutesDown": {
+      "2024-09-30": 0,
       "2024-09-14": 15
     }
   },
