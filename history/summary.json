@@ -24,18 +24,19 @@
     "url": "https://www.ekato.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ekato.com.ico",
     "slug": "ekato-gmb-h",
-    "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.90%",
     "time": 6300,
     "timeDay": 5631,
     "timeWeek": 6435,
     "timeMonth": 6334,
     "timeYear": 6300,
     "dailyMinutesDown": {
+      "2024-10-16": 2,
       "2024-09-23": 44
     }
   },
@@ -44,7 +45,7 @@
     "url": "https://mixing.ekato.com",
     "icon": "https://icons.duckduckgo.com/ip3/mixing.ekato.com.ico",
     "slug": "mixing-ekato-gmb-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -55,6 +56,8 @@
     "timeWeek": 4882,
     "timeMonth": 4688,
     "timeYear": 4732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   }
 ]
