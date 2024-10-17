@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3482,
-    "timeDay": 1302,
-    "timeWeek": 3735,
-    "timeMonth": 3705,
-    "timeYear": 3482,
+    "time": 3431,
+    "timeDay": 1497,
+    "timeWeek": 2481,
+    "timeMonth": 3588,
+    "timeYear": 3431,
     "dailyMinutesDown": {
       "2024-09-14": 15
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ekato.com.ico",
     "slug": "ekato-gmb-h",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.86%",
-    "time": 6256,
-    "timeDay": 5143,
-    "timeWeek": 6213,
-    "timeMonth": 6283,
-    "timeYear": 6256,
+    "uptimeYear": "99.87%",
+    "time": 6234,
+    "timeDay": 5022,
+    "timeWeek": 6133,
+    "timeMonth": 6252,
+    "timeYear": 6234,
     "dailyMinutesDown": {
       "2024-10-16": 21,
       "2024-09-23": 44
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 5334,
-    "timeDay": 15407,
-    "timeWeek": 7572,
-    "timeMonth": 5388,
-    "timeYear": 5334,
+    "time": 5305,
+    "timeDay": 15342,
+    "timeWeek": 7526,
+    "timeMonth": 5365,
+    "timeYear": 5305,
     "dailyMinutesDown": {
       "2024-10-16": 20
     }
